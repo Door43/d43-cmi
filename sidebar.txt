@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cmi:home|Door43 (cmi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cmi|d43-cmi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cmi/archive/master.zip|d43-cmi.zip]]
+
+**Recent Changes**
+{{changes>ns = cmi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cmi|Ethnologue data]]
+
